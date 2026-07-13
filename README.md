@@ -1,30 +1,32 @@
 ## Motion Tracker
 
-通用运控控制器（General-purpose Motion Controller）实现。
-> 单一控制器实现高动态、高难度平衡、AMP风格恢复、柔顺控制等功能
+General-purpose motion controller implementation.
+> A single controller enables high-dynamics, high-difficulty balancing, AMP-style recovery, and compliant control.
+
+> Click the animated thumbnail to load the full video.
 
 ### 1. Balance
 
 [![Balance](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9ecf250/resource/balance.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/balance.mp4)
 
-> 无显式ZMP约束，自研数据生成
+> No explicit ZMP constraint; self-developed data generation.
 
-### 2. Mimic + Amp Catchup & 默认 Recovery
+### 2. Mimic + Amp Catchup & Default Recovery
 
 [![Mimic + Amp Catchup](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9ecf250/resource/mimic%2Bamp_catchup.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/mimic%2Bamp_catchup.mp4)
 
-[![默认 Recovery](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9ecf250/resource/%E9%BB%98%E8%AE%A4recovery.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/%E9%BB%98%E8%AE%A4recovery.mp4)
+[![Default Recovery](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9ecf250/resource/%E9%BB%98%E8%AE%A4recovery.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/%E9%BB%98%E8%AE%A4recovery.mp4)
 
-> mimic和AMP风格恢复的完美融合，解决了“非人类”摔倒爬起的风格问题
+> A seamless fusion of mimic and AMP-style recovery, resolving the “non-human” style in falling and getting up.
 
 ### 3. ComplianceMimic
 
 [![ComplianceMimic](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9ecf250/resource/complianceMimic.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/complianceMimic.mp4)
 
-> sensor-free learning based compliance control。
+> Sensor-free learning based compliance control.
 
 ### 4. VideoMimic
 
 [![VideoMimic](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9ecf250/resource/videomimic.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/videomimic.mp4)
 
-> 兼容视频流
+> Compatible with video streams.
