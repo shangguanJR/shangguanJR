@@ -3,11 +3,13 @@
 General-purpose motion controller implementation.
 > A single controller enables high-dynamics, high-difficulty balancing, AMP-style recovery, and compliant control.
 
-> Click the animated thumbnail to load the full video.
+> 点击动图加载完整视频.
 
 ### 1. Balance
 
 [![Balance](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9ecf250/resource/balance.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/balance.mp4)
+
+![Balance Data](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/balance_data.jpg)
 
 > No explicit ZMP constraint; self-developed data generation.
 
