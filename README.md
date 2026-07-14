@@ -49,4 +49,4 @@ General-purpose motion controller implementation.
 
 [![VAE Diffusion](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@f2a649c/resource/vae_diffusion.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/vae_diffusion.mp4)
 
-> VAE-diffusion based motion generation.
+> Autoregressive motion diffusion model with zero latency, interruptible at any time.
