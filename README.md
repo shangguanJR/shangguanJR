@@ -3,7 +3,7 @@
 General-purpose motion controller implementation.
 > A single controller enables high-dynamics, high-difficulty balancing, AMP-style recovery, and compliant control. It also supports multiple input modalities, including IMU motion capture, video, and real-time speech/text generation.
 
-> Click the animated thumbnail to load the full video.
+<p align="center"><strong>🎬 点击动图加载完整视频 🎬</strong></p>
 
 ### 1. Balance
 
