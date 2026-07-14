@@ -1,9 +1,9 @@
 ## Motion Tracker
 
 General-purpose motion controller implementation.
-> A single controller enables high-dynamics, high-difficulty balancing, AMP-style recovery, and compliant control.
+> A single controller enables high-dynamics, high-difficulty balancing, AMP-style recovery, and compliant control. It also supports multiple input modalities, including IMU motion capture, video, and real-time speech/text generation.
 
-> 点击动图加载完整视频.
+> Click the animated thumbnail to load the full video.
 
 ### 1. Balance
 
@@ -17,11 +17,13 @@ General-purpose motion controller implementation.
 
 [![Mimic + Amp Catchup](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9509a05/resource/mimic%2Bamp_catchup.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/mimic%2Bamp_catchup.mp4)
 
+> A seamless fusion of mimic and AMP-style recovery, resolving the “non-human” style in falling and getting up. Not only falling and getting up, but also recovering to the current trajectory.
+
 [![Recovery 1](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9509a05/resource/%E9%BB%98%E8%AE%A4recovery1.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/%E9%BB%98%E8%AE%A4recovery1.mp4)
 
 [![Recovery 2](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9509a05/resource/%E9%BB%98%E8%AE%A4recovery2.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/%E9%BB%98%E8%AE%A4recovery2.mp4)
 
-> A seamless fusion of mimic and AMP-style recovery, resolving the “non-human” style in falling and getting up.
+> For comparison: falling and getting up without AMP-style guidance.
 
 ### 3. Agile Motion
 
@@ -42,3 +44,9 @@ General-purpose motion controller implementation.
 [![VideoMimic](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9509a05/resource/videomimic.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/videomimic.mp4)
 
 > Compatible with video streams.
+
+### 6. System 0.5
+
+[![VAE Diffusion](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@f2a649c/resource/vae_diffusion.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/vae_diffusion.mp4)
+
+> VAE-diffusion based motion generation.
