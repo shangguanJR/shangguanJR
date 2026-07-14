@@ -7,11 +7,9 @@ General-purpose motion controller implementation.
 
 ### 1. Balance
 
-[![Balance](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9509a05/resource/balance.gif)](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/balance.mp4)
+<a href="https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/balance.mp4"><img src="https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@9509a05/resource/balance.gif" width="180"></a>
 
-![Balance Data 1](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/balance_data1.jpg)
-
-![Balance Data 2](https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@main/resource/balance_data2.jpg)
+<img src="https://cdn.jsdelivr.net/gh/shangguanJR/shangguanJR@f0b1a09/resource/balance_data.jpg" width="180">
 
 > No explicit ZMP constraint; self-developed data generation.
 
